@@ -8,7 +8,7 @@
 
 ## Structure du projet
 
-Le projet est divisé en 4 répertoires: TP_1, TP_2, TP_3 et TP_4.
+Le projet est divisé en 4 répertoires.
 Chaque répertoire désigne un travail qui était à faire mêlant code et
 test. Les sections suivantes décriront les emplacements du code et des tests.
 
